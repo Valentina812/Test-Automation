@@ -5,11 +5,11 @@ In the following repository you will find two testing exercises which will be ca
 Different test cases are carried out, which use UFT and Api testing with Soap UI. The goal of which is to perform well on tests.
 
 # Prerequisites
-UFT ONE version 2021 
-Soap UI 5.7.0 
-Java version 1.8 y JDK IntelliJ IDEA 
-Chrome driver version 102 
-Browser The automation runs on the current google chrome version.
+- UFT ONE version 2021 
+- Soap UI 5.7.0 
+- Java version 1.8 y JDK IntelliJ IDEA 
+- Chrome driver version 102 
+- Browser The automation runs on the current google chrome version.
 
 # Construction
 UFT Soap UI BDD - development strategy Git is used for version control.
