@@ -1,0 +1,101 @@
+TEST PLAN CHALLENGE
+
+HU:Google maps 
+
+ALCANCE: Para la historia de usuario se realizarán las validaciones y verificaciones en una prueba UFT donde se pueda seleccionar diferentes ubicaciones y se validen diferentes parametros
+ 
+Se verificará: 
+ 
+* Se visualicen el campo de busqueda.
+* Se visualice los componentes de la dirección de busqueda.
+
+Se validará: 
+ 
+* Permita la correcta busqueda de la ubicación.
+* Se habilite la opción de busqueda.
+
+ 
+ESTRATEGIA: Se realizarán diferentes acciones las cuales especifiquen cada uno de los pasos y busquedas de las ubicaciones, para asi poder verificar todo el contenido de la busqueda.
+
+CRITERIOS DE DEVOLUCIÓN 
+ 
+* Si el portal web no carga sus componentes.
+* Si no se habilitan todos los productos.
+ 
+CRITERIOS DE ACEPTACIÓN 
+
+* Si portal web permita continuar con el ingreso.
+* Si se visualiza los componentes de la aplicación.
+FUERA DEL ALCANCE 
+ 
+* No se validará el funcionamiento en dispositivos móviles ni en navegadores diferentes a Google Chrome. 
+* No se validarán otras funcionalidades que no se encuentren descritas en cada uno de los alcances. 
+ 
+PRERREQUISITOS 
+ 
+* Cada uno de los componentes de la página debe cargar todos sus componentes. 
+* Acceso al navegador web Google Chrome. 
+* Actualización del navegador web. 
+
+SUPUESTOS Y LIMITACIONES 
+ 
+* Operaciones actualizadas para la ejecución de la prueba.
+* El proceso de pruebas no debe contar con restricciones para su realización. 
+  
+DATOS E INFRAESTRUCTURA 
+ 
+* Disponibilidad en la conexión a la red.  
+
+Nombre: Valentina Ramirez Grajales
+Rol:Automation Test Engineer
+
+********************************************************************************************
+
+HU:Google maps
+
+SCOPE: For the user story, the validations and verifications will be carried out in a UFT test where different locations can be selected and different parameters are validated.
+ 
+It will be verified:
+ 
+* The search field is displayed.
+* The components of the search direction are displayed.
+
+It will be validated:
+ 
+* Allow the correct search of the location.
+* The search option is enabled.
+
+ 
+STRATEGY: Different actions will be carried out which specify each of the steps and searches of the locations, in order to verify all the content of the search.
+
+RETURN CRITERIA
+ 
+* If the web portal does not load its components.
+* If not all products are enabled.
+ 
+CRITERIA OF ACCEPTANCE
+
+* If the web portal allows you to continue with the income.
+* If the components of the application are displayed.
+OUT OF RANGE
+ 
+* Operation on mobile devices or browsers other than Google Chrome will not be validated.
+* Other functionalities that are not described in each of the scopes will not be validated.
+ 
+PREREQUISITES
+ 
+* Each of the components of the page must load all its components.
+* Access to Google Chrome web browser.
+* Web browser update.
+
+ASSUMPTIONS AND LIMITATIONS
+ 
+* Updated operations for test execution.
+* The testing process should not have restrictions for its implementation.
+  
+DATA AND INFRASTRUCTURE
+ 
+* Availability in connection to the network.
+
+Name: Valentina Ramirez Grajales
+Role: Automation Test Engineer

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "ChallengeTest", "ChallengeTest\Test.tsp", "EDB21A0C-6337-465E-BC4C-9799AF7D10DF"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\valen\OneDrive\Documentos\Proyectos\Test-Automation\MICROFOCUS - UFT (UNIFIED FUNCTIONAL TESTING)\ChallengeTest\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		EDB21A0C-6337-465E-BC4C-9799AF7D10DF.Debug|Any CPU.Build.0 = Debug|Any CPU
+		EDB21A0C-6337-465E-BC4C-9799AF7D10DF.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		EDB21A0C-6337-465E-BC4C-9799AF7D10DF.Release|Any CPU.Build.0 = Release|Any CPU
+		EDB21A0C-6337-465E-BC4C-9799AF7D10DF.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
